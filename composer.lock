@@ -282,16 +282,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/stackphp/CallableHttpKernel.git",
-                "reference": "2cea2eab2c3a618bd378f1a2fa05917cf934b518"
+                "reference": "97f6bd2aaf0f173a902dfd6bd4ffa558a799531d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stackphp/CallableHttpKernel/zipball/2cea2eab2c3a618bd378f1a2fa05917cf934b518",
-                "reference": "2cea2eab2c3a618bd378f1a2fa05917cf934b518",
+                "url": "https://api.github.com/repos/stackphp/CallableHttpKernel/zipball/97f6bd2aaf0f173a902dfd6bd4ffa558a799531d",
+                "reference": "97f6bd2aaf0f173a902dfd6bd4ffa558a799531d",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.4.0",
+                "php": ">=5.3.0",
                 "symfony/http-foundation": "~2.1",
                 "symfony/http-kernel": "~2.1"
             },
@@ -321,7 +321,7 @@
             "keywords": [
                 "stack"
             ],
-            "time": "2013-05-17 16:07:54"
+            "time": "2013-10-25 14:27:17"
         }
     ],
     "aliases": [
